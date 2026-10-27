@@ -1,9 +1,10 @@
-# GPT6 Astra 官网与型号说明
+# GPT6 Astra官网是什么？型号怎么查
 
 中文说明页关键词：**gpt6 astra官网**
 
 - GitHub Pages：https://maynor996.github.io/gpt6-astra-guanwang/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：解读GPT6 Astra官网检索意图与型号档位，说明如何在列表核对。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
